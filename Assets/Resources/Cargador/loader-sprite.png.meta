@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 6a483e263357d4742ab96ab36bbd0ff8
+timeCreated: 1452270399
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: loader-sprite_0
+    21300002: loader-sprite_1
+    21300004: loader-sprite_2
+    21300006: loader-sprite_3
+    21300008: loader-sprite_4
+    21300010: loader-sprite_5
+    21300012: loader-sprite_6
+    21300014: loader-sprite_7
+    21300016: loader-sprite_8
+    21300018: loader-sprite_9
+    21300020: loader-sprite_10
+    21300022: loader-sprite_11
+    21300024: loader-sprite_12
+    21300026: loader-sprite_13
+    21300028: loader-sprite_14
+    21300030: loader-sprite_15
+    21300032: loader-sprite_16
+    21300034: loader-sprite_17
+    21300036: loader-sprite_18
+    21300038: loader-sprite_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: loader-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 234
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 702
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 702
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 702
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 702
+        width: 232
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 230
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 465
+        width: 231
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 465
+        width: 231
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 465
+        width: 231
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 466
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 232
+        width: 231
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 232
+        width: 232
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 232
+        width: 234
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 232
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 230
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loader-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

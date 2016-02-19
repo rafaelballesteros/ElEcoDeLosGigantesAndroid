@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B55B5127-9805-8F77-0A3E-4126EE5BF192}") = "ElEcoDeLosGigantesAndroidV1.2", "Assembly-CSharp.csproj", "{B6343C4D-1288-25D5-6E50-D03F405958A2}"
+EndProject
+Project("{B55B5127-9805-8F77-0A3E-4126EE5BF192}") = "ElEcoDeLosGigantesAndroidV1.2", "Assembly-CSharp-Editor.csproj", "{E9D548C7-BC50-5827-D981-5A2CCED1DA75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6343C4D-1288-25D5-6E50-D03F405958A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6343C4D-1288-25D5-6E50-D03F405958A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6343C4D-1288-25D5-6E50-D03F405958A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6343C4D-1288-25D5-6E50-D03F405958A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D548C7-BC50-5827-D981-5A2CCED1DA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D548C7-BC50-5827-D981-5A2CCED1DA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D548C7-BC50-5827-D981-5A2CCED1DA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D548C7-BC50-5827-D981-5A2CCED1DA75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

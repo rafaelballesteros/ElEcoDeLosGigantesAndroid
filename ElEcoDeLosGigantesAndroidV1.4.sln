@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FD6C036F-FEDA-1CC6-8539-CB2E296DB4D1}") = "ElEcoDeLosGigantesAndroidV1.4", "Assembly-CSharp.csproj", "{2CAF6611-220B-1DB4-09FA-2B28C22493D7}"
+EndProject
+Project("{FD6C036F-FEDA-1CC6-8539-CB2E296DB4D1}") = "ElEcoDeLosGigantesAndroidV1.4", "Assembly-CSharp-Editor.csproj", "{7230E053-0412-9E4D-2D66-0AD54A2AF4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CAF6611-220B-1DB4-09FA-2B28C22493D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAF6611-220B-1DB4-09FA-2B28C22493D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAF6611-220B-1DB4-09FA-2B28C22493D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAF6611-220B-1DB4-09FA-2B28C22493D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7230E053-0412-9E4D-2D66-0AD54A2AF4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7230E053-0412-9E4D-2D66-0AD54A2AF4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7230E053-0412-9E4D-2D66-0AD54A2AF4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7230E053-0412-9E4D-2D66-0AD54A2AF4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																													GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
